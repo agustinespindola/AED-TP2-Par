@@ -1,0 +1,6 @@
+Ingrese un numero: 7
+
+Resultado: 1
+
+Si el resultado es 0, el numero es par.
+Si el resultado es 1, el numero es impar.
